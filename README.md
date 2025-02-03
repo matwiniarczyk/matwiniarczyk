@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mateusz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and JavaScript.
+- 🌱 I’m currently learning Python and JavaScript.
 - 📫 How to reach me - matiwiniar@gmail.com
 
 
